@@ -40,7 +40,7 @@ CREATE TABLE `sekolah` (
 --
 
 INSERT INTO `sekolah` (`id`, `nama`, `alamat`, `logo`) VALUES
-(2, 'Billy Titan Pratama', 'Jl. Kenconowungu Tengah VI No.18A', '2.png');
+(2, 'Abdul Aziz M', 'Jl. Kariadi 538', '2.png');
 
 -- --------------------------------------------------------
 
@@ -60,8 +60,8 @@ CREATE TABLE `tb_user` (
 --
 
 INSERT INTO `tb_user` (`username`, `password`, `nama`, `hak`) VALUES
-('admin', '123', 'Billy Titan Pratama', 1),
-('operator', '1234', 'Billy Titan', 2);
+('admin', '123', 'Kazami Hazaki', 1),
+('operator', '1234', 'Kazami', 2);
 
 --
 -- Indexes for dumped tables

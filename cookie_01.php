@@ -1,6 +1,6 @@
 <?php
-$value = 'Billy';
-$value2 = 'Billy Titan';
+$value = 'Kazami ';
+$value2 = 'Kazami Hazaki';
 setcookie("Username", $value);
 setcookie("NamaLengkap", $value2, time() + 3600);
 /* expire in 1 hour */
