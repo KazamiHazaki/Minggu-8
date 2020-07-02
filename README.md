@@ -1,2 +1,2 @@
-# Minggu-8
- 
+# Minggu8
+Minggu 8
